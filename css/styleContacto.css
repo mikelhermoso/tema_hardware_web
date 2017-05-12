@@ -1,0 +1,89 @@
+/* 
+    Created on : 05-may-2017, 13:44:15
+    Author     : mikel
+*/
+#contentContacto {
+    clear: both;
+    width: 100%;
+    max-width: 1920px;
+    margin: 0px auto;
+    height: 500px;
+}
+#containerContacto {
+    width: 1000px;
+    margin: 0 auto;
+}
+#contentForm {
+    width: 500px;
+    margin-top: 20px;
+    float: left;
+    text-align: center;
+    color: black;
+}
+#contentImgContact {
+    width: 500px;
+    float: left;
+    margin-top: 50px;
+}
+#containerImgContact {
+    width: 400px;
+    margin: 0 auto;
+}
+#contentTextoContact {
+    width: 100px;
+    margin-top: 5px;
+    float: left;
+    margin-left: 15px;
+}
+#contentInputContact {
+    width: 400px;
+    margin-top: 5px;
+    float: left;
+}
+/*CLASES*/
+h3.titContacto {
+    margin-bottom: 20px;
+    font-size: 1.3em;
+}
+form {
+    width: 550px;
+    margin: 0 auto;
+}
+input {
+    width: 300px;
+    height: 40px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border: 1px solid lightgray;
+    opacity: 0.7;
+    padding-left: 5px;
+}
+textarea {
+    width: 300px;
+    height: 100px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border: 1px solid lightgray;
+    opacity: 0.7;
+    padding: 5px;
+}
+input:hover, textarea:hover {
+     opacity: 1;
+}
+span.textoContacto {
+}
+input.btnSubmit {
+    width: 150px; 
+    margin-top: 20px; 
+}
+img.imgContacto {
+/*    width: 550px;*/
+    height: 400px;
+}
+hr.contact {
+    width: 800px;
+    margin: 10px auto;
+    border: 0; 
+    height: 12px; 
+    box-shadow: inset 0 12px 12px -12px #5F5F5F;
+}

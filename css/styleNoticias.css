@@ -1,0 +1,29 @@
+/* 
+    Created on : 12-may-2017, 14:46:05
+    Author     : mikel
+*/
+#contentNoticias {
+    width: 100%;
+}
+#containerNoticias {
+    width: 1200px;
+    margin: 50px auto;
+}
+#contentTitNoticia {
+    width: 300px;
+    text-align: right;
+    float: left;
+    padding-right: 25px; 
+}
+#contentTextNoticia {
+    width: 800px;
+    float: left;
+    border-left: 1px solid lightblue;
+    padding-left: 25px; 
+}
+h2.titNoticia {
+    margin-top: 0px;
+}
+p.textoNoticia {
+    color: gray;
+}
