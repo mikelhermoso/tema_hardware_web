@@ -15,7 +15,7 @@
         <link REL=StyleSheet HREF="css/styleNoticias.css">
         <link REL=StyleSheet HREF="css/styleContacto.css">
         <link REL=StyleSheet HREF="css/styleFooter.css">
-        <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">  
+        <link href="https://fonts.googleapis.com/css?family=Khula" rel="stylesheet"> 
         <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
         <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-smoove/0.2.6/jquery.smoove.min.js"></script>
