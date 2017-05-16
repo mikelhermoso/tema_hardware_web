@@ -73,6 +73,15 @@ p.textoNoticiaSide {
     color: gray;
     margin-top: 0px;
 }
+p.textoLeermas {
+    color: #91C7D4;
+}
+p.textoLeermas:hover {
+    color: #61a4b4;
+}
+a{
+    text-decoration: none;
+}
 img.imgNoticia {
     width: 100%;
     height: 200px;

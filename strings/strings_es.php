@@ -3,7 +3,7 @@
     $index = 'Inicio';
     $sobremi = 'Componentes';
     $habs = 'Perifericos';
-    $blog = 'Ordenadores';
+    $ord = 'Ordenadores';
     $contacto = 'Contacto';
     $tituloPrincipal = 'TITULO DE LA PAGINA';
     $subTituloPrincipal = 'Subtitulo de la página';

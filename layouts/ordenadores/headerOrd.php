@@ -24,9 +24,7 @@
             <a href="https://www.linkedin.com"><img class="imgRedes" src="img/redes/linkedin.png" alt="linkedin" /></a>
         </div>
         <div id="contentHeaderText">
-            <h1 class="titHeader">TITULO EN PORTADA</h1>
-            <h4 class="textHeader">Texto en portada. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</h4>
-            <h4 class="textHeader">Texto en portada. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</h4>
+            <h1 class="titHeader">ORDENADORES</h1>
         </div>
     </div>
 </div>

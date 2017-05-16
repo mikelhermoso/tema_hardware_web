@@ -78,7 +78,8 @@ input.btnSubmit {
 }
 img.imgContacto {
 /*    width: 550px;*/
-    height: 400px;
+    height: 300px;
+    padding: 30px;
 }
 hr.contact {
     width: 800px;

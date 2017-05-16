@@ -13,6 +13,7 @@
         <link REL=StyleSheet HREF="css/styleHeader.css">
         <link REL=StyleSheet HREF="css/styleNav.css">
         <link REL=StyleSheet HREF="css/styleNoticias.css">
+        <link REL=StyleSheet HREF="css/styleNosotros.css">
         <link REL=StyleSheet HREF="css/styleContacto.css">
         <link REL=StyleSheet HREF="css/styleFooter.css">
         <link href="https://fonts.googleapis.com/css?family=Khula" rel="stylesheet"> 
@@ -27,6 +28,7 @@
     
     <body>
         <?php include 'layouts/noticias.php';?>
+        <?php include 'layouts/nosotros.php';?>
         <a name="contacto"></a>
         <?php include 'layouts/contacto.php';?>
        
@@ -67,28 +69,14 @@
         $(document).ready(function(){
         $("#cabecera").hide(0).delay(300).fadeIn(2000);
         });
-        
-        $("#containerHabilidades1, #containerHabilidades2").smoove({
-            offset  : '20%',
-            moveX   : '100px',
-            moveY   : '100px'
-        });
-        $("#containerHabilidades3, #containerHabilidades4").smoove({
-            offset  : '20%',
-            moveX   : '-100px',
-            moveY   : '100px'
-        });
         $("#contentImgContacto, #contentImgContact").smoove({
             offset  : '20%',
             moveY   : '200px'
         });
-         $("#contentTextoSobreMi, #containerContacto").smoove({
+        $("#containerContacto, #contentTextNosotros, #contentNoticiasImgs").smoove({
             offset  : '20%',
             moveX   : '100px'
         });
-        $("#containerRedesSociales").smoove({
-            offset  : '10%',
-            moveX   : '100px'
-        });
+      
     });
 </script>
